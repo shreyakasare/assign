@@ -1,0 +1,12 @@
+  {
+"users": [{"id":1,"name":"ABC", "email":"abc!gmail.com","role":"Admin"},
+
+
+     
+         {"id":2,"name":"PQR", "email":"pqr@gmail.com","role":"Admin"},
+         {"id":3,"name":"XYZ", "email":"xyz@gmail.com","role":"User"}
+  ]
+}
+        
+
+
